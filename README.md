@@ -4,7 +4,7 @@ A simple and elegant **Animated Profile Card Website** built using only **HTML a
 This project demonstrates the use of **Flexbox, hover transitions, and CSS keyframe animations**.
 
 ## 🚀 Live Demo
-👉 
+👉 https://atharva9191.github.io/Animated-Profile-Card/
 
 ---
 
