@@ -26,7 +26,7 @@ This project demonstrates the use of **Flexbox, hover transitions, and CSS keyfr
 - Animations (@keyframes)
 
 ## 📂 Project Structure
-animated-profile-card/
+Animated-profile-card/
 ├── index.html
 ├── style.css
 ├── screenshots/
